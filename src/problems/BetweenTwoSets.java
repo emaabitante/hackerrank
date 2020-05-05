@@ -13,6 +13,7 @@ public class BetweenTwoSets {
 		b.add(24);
 		b.add(48);
 
+		
 		int cant = 0;
 		int e = 1;
 		int bMa = b.get(0);
